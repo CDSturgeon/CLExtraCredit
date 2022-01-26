@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cds/Desktop/Code101/Class-v-Struct/Class-v-Struct.csproj": {}
+    "/Users/cds/Desktop/Code101/CLExtraCredit/Class-v-Struct/Class-v-Struct.csproj": {}
   },
   "projects": {
-    "/Users/cds/Desktop/Code101/Class-v-Struct/Class-v-Struct.csproj": {
+    "/Users/cds/Desktop/Code101/CLExtraCredit/Class-v-Struct/Class-v-Struct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cds/Desktop/Code101/Class-v-Struct/Class-v-Struct.csproj",
+        "projectUniqueName": "/Users/cds/Desktop/Code101/CLExtraCredit/Class-v-Struct/Class-v-Struct.csproj",
         "projectName": "Class-v-Struct",
-        "projectPath": "/Users/cds/Desktop/Code101/Class-v-Struct/Class-v-Struct.csproj",
+        "projectPath": "/Users/cds/Desktop/Code101/CLExtraCredit/Class-v-Struct/Class-v-Struct.csproj",
         "packagesPath": "/Users/cds/.nuget/packages/",
-        "outputPath": "/Users/cds/Desktop/Code101/Class-v-Struct/obj/",
+        "outputPath": "/Users/cds/Desktop/Code101/CLExtraCredit/Class-v-Struct/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cds/.config/NuGet/NuGet.Config"
